@@ -1,8 +1,12 @@
-# movieflix-seed
-seed for the Full-Stack training project: movieflix
+# Module-api
+My project is in movieflix folder
 
-## directory structure:
+### Achieved During The Project
+Successfully created sort, filter, add movie, update movie, delete movie, create user, create user , delete user, and all the get commands related to that
 
-**`client`** [*module-complete*]: contains ui app (HTML, CSS, JS, fonts, images)   
-**`layout`** [*module-layout*]: contains layout related files (CSS, HTML).     
-**`server`** [*module-api*]: contains REST API
+### Future scope for improvement and functionality need to be done
+* Comment, rating, adding movies in playlist  
+* Seperate service layer for login
+* Managing the components in more proper way
+* Using security features so that data can't be accessed without login ex: users/{id}
+* Assigning value instead of hardcoding them: Instead of users using {role} and assigning value users to role so it's flexible to change
