@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled 
+11ccb31f81b694f9b0c6099ea174a3d0aa78e724 refs/heads/master
+11ccb31f81b694f9b0c6099ea174a3d0aa78e724 refs/heads/module-api
+11ccb31f81b694f9b0c6099ea174a3d0aa78e724 refs/heads/module-complete
+11ccb31f81b694f9b0c6099ea174a3d0aa78e724 refs/heads/module-layout
